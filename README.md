@@ -13,6 +13,9 @@ A powerful Python-based security tool that performs full website scanning includ
 - **Professional PDF Reports** with clean design
 - **Colorful CLI Interface**
 
+- **⚠️ Important**: This tool is developed **for educational and authorized security testing purposes only**. 
+> Unauthorized scanning of websites without permission is illegal. Use responsibly and ethically.
+
 ### Screenshots
 
 **1. CLI Interface**
