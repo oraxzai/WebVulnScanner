@@ -1,29 +1,44 @@
-# WebVulnScanner 🔥
+# WebVulnScanner PRO 🔥
 
-**Automated Web Vulnerability Scanner** - Portfolio Project
+**Advanced Professional Website Vulnerability Scanner**
 
-A Python-based tool that scans websites for common web vulnerabilities like SQL Injection, XSS, and missing security headers. Generates professional HTML + TXT reports.
+A powerful Python-based security tool that performs full website scanning including vulnerability detection, technology fingerprinting, subdomain enumeration, and generates beautiful PDF reports.
+
+![WebVulnScanner](screenshots/cli.png)
 
 ### Features
-- Basic vulnerability detection (SQLi, XSS)
-- Security Headers Analysis
-- Beautiful HTML Report Generation
-- Colored CLI Interface
-- Easy to use Menu System
+- **Vulnerability Detection**: SQL Injection, XSS, Missing Security Headers
+- **Technology Detection**: WordPress, PHP, Apache, Cloudflare, etc.
+- **Subdomain Enumeration**: Balanced deep scan
+- **WordPress Specific Checks**
+- **Professional PDF Reports** with clean design
+- **Colorful CLI Interface**
+
+### Screenshots
+
+**1. CLI Interface**
+![CLI Interface](screenshots/cli.png)
+
+**2. Professional PDF Report**
+![PDF Report](screenshots/report.png)
+
+**3. Testing on DVWA**
+![DVWA Testing](screenshots/dvwa.png)
 
 ### Technologies Used
 - Python 3
 - Requests & BeautifulSoup4
-- Colorama (CLI styling)
+- ReportLab (PDF Generation)
+- Colorama (CLI Styling)
 
-### How to Run
+### How to Install & Run
 
 ```bash
-# 1. Clone or download the project
-git clone https://github.com/yourusername/WebVulnScanner.git
+git clone https://github.com/oraxzai/WebVulnScanner.git
+cd WebVulnScanner
 
-# 2. Install requirements
+# Install dependencies
 pip install -r requirements.txt
 
-# 3. Run the scanner
+# Run the scanner
 python scanner.py
