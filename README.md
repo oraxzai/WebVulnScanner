@@ -44,3 +44,11 @@ pip install -r requirements.txt
 
 # Run the scanner
 python scanner.py
+
+Author
+Muhammad Haris
+
+Certified Ethical Hacker (CEH)
+B.Sc. Computer Systems Engineering
+University of Engineering & Technology Peshawar
+
