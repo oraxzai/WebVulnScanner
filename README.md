@@ -4,7 +4,6 @@
 
 A powerful Python-based security tool that performs full website scanning including vulnerability detection, technology fingerprinting, subdomain enumeration, and generates beautiful PDF reports.
 
-![WebVulnScanner](screenshots/cli.png)
 
 ### Features
 - **Vulnerability Detection**: SQL Injection, XSS, Missing Security Headers
