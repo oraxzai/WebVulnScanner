@@ -33,7 +33,7 @@ A powerful Python-based security tool that performs full website scanning includ
 - ReportLab (PDF Generation)
 - Colorama (CLI Styling)
 
-- Author
+### Author
 Muhammad Haris
 
 Certified Ethical Hacker (CEH)
