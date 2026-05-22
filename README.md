@@ -17,13 +17,13 @@ A powerful Python-based security tool that performs full website scanning includ
 ### Screenshots
 
 **1. CLI Interface**
-![CLI Interface](screenshots/cli.png)
+![CLI Interface](cli.png)
 
 **2. Professional PDF Report**
-![PDF Report](screenshots/report.png)
+![PDF Report](report.png)
 
 **3. Testing on DVWA**
-![DVWA Testing](screenshots/dvwa.png)
+![DVWA Testing](dvwa.png)
 
 ### Technologies Used
 - Python 3
